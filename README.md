@@ -12,4 +12,4 @@ Visualize soccer formation, have better idea for upcoming game.
 6. People in same team can leave comment/opinion for the selected formation
 7. Have like function for each comment
 
-Please see initial mockup: file:///Users/nurzat_nijat/Desktop/SoccerFormationApp.png
+Please see initial mockup: File:///Users/nurzat_nijat/Desktop/SoccerFormationApp.png
