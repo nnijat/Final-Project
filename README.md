@@ -3,7 +3,7 @@
 ## Reason
 Visualize soccer formation, have better idea for upcoming game.
 
-## Why & How
+## How
 #### Features, included but not limited
 1. people can signup/signin
 2. Select listed formation
@@ -16,4 +16,5 @@ Visualize soccer formation, have better idea for upcoming game.
 ## Technology
 To Be Determined
 
-Please see initial mockup: File:///Users/nurzat_nijat/Desktop/SoccerFormationApp.png
+## Mockup
+Initial mockup: File:///Users/nurzat_nijat/Desktop/SoccerFormationApp.png
